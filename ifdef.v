@@ -1,6 +1,6 @@
-`define dataflow
+//`define dataflow
 
-//`define behavioural
+`define behavioural
 
 module ifdef(y,i,sel);
 

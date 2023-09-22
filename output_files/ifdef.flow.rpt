@@ -1,5 +1,5 @@
 Flow report for ifdef
-Thu Sep 21 17:14:08 2023
+Fri Sep 22 14:52:16 2023
 Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
 
 
@@ -40,7 +40,7 @@ refer to the applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Thu Sep 21 17:14:08 2023       ;
+; Flow Status                        ; Successful - Fri Sep 22 14:52:16 2023       ;
 ; Quartus Prime Version              ; 18.0.0 Build 614 04/24/2018 SJ Lite Edition ;
 ; Revision Name                      ; ifdef                                       ;
 ; Top-level Entity Name              ; ifdef                                       ;
@@ -66,7 +66,7 @@ refer to the applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 09/21/2023 17:13:58 ;
+; Start date & time ; 09/22/2023 14:51:58 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; ifdef               ;
 +-------------------+---------------------+
@@ -77,7 +77,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
-; COMPILER_SIGNATURE_ID               ; 9447194391009.169529663811424          ; --            ; --          ; --         ;
+; COMPILER_SIGNATURE_ID               ; 9447194391009.169537451803044          ; --            ; --          ; --         ;
 ; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --          ; --         ;
 ; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --          ; --         ;
 ; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
@@ -92,8 +92,8 @@ refer to the applicable agreement for further details.
 +------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name            ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Elaboration ; 00:00:10     ; 1.0                     ; 4706 MB             ; 00:00:11                           ;
-; Total                  ; 00:00:10     ; --                      ; --                  ; 00:00:11                           ;
+; Analysis & Elaboration ; 00:00:19     ; 1.0                     ; 4706 MB             ; 00:00:22                           ;
+; Total                  ; 00:00:19     ; --                      ; --                  ; 00:00:22                           ;
 +------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
